@@ -14,4 +14,4 @@ Welcome! This repository is a shared space for collaboration around **Claude Cod
 2. Keep descriptions clear and practical
 3. Improve existing commands when you see opportunities
 
-Whether you are just getting started or already experienced, your contributions are welcome. Let’s build this together 🚀
+Whether you are just getting started or already experienced, your contributions are welcome. Let’s build this together. 🚀
