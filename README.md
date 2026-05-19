@@ -4,7 +4,7 @@ Welcome! This repository is a shared space for collaboration around **Claude Cod
 
 ## What this repo is for
 
-- A place where **everyone can upload** their Claude Code commands
+- A place where **everyone can share and upload** their Claude Code commands
 - A collaborative hub to share ideas, improve prompts, and help each other
 - A growing collection of practical commands that make Claude Code more useful
 
